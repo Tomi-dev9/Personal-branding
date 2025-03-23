@@ -5,8 +5,7 @@ function Projects() {
     <section id="projects">
       <h2>Riwayat Proyek</h2>
       <ul>
-        <li>Proyek PBL - Pengembangan Aplikasi Mobile (2020)</li>
-        <li>Proyek Web Development - E-commerce Website (2021)</li>
+        <li>Proyek PBL - Absensi online (2024)</li>
       </ul>
     </section>
   );

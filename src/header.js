@@ -5,9 +5,9 @@ function Header() {
     <header>
       <h1>Nama Anda</h1>
       <p>Deskripsi singkat tentang Anda.</p>
-      <p>Email: <a href="mailto:email@example.com">email@example.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/username">LinkedIn</a></p>
-      <p>GitHub: <a href="https://github.com/username">GitHub</a></p>
+      <p>Email: <a href="tomingselingga2512@gmail.com">email saya</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/tomingselingga">LinkedIn</a></p>
+      <p>GitHub: <a href="https://github.com/Tomi-dev9">GitHub</a></p>
     </header>
   );
 }
